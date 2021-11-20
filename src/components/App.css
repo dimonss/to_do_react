@@ -1,0 +1,19 @@
+.header__inner {
+  display: flex;
+  padding: 16px;
+}
+
+.button__container{
+  display: flex;
+  margin-left: 16px;
+}
+
+.header {
+  margin-top: 16px;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.30), 0 15px 12px rgba(0, 0, 0, 0.22);
+  background-color: white;
+}
+
+.list {
+  max-width: 394px;
+}
